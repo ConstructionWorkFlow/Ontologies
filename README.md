@@ -1,4 +1,4 @@
-# Ontologioiden kehittäminen toimitusketjuille
+# Ontologioiden kehittäminen rakennusalan toimitusketjuille
 
 
 Tausta materiaalia:
